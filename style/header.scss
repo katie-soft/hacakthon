@@ -1,0 +1,6 @@
+@import './mixins.scss';
+
+.page-title {
+  @include large-text;
+  padding: 10px;
+}
